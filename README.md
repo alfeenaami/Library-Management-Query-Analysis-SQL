@@ -44,7 +44,7 @@ The project operates on a schema containing three core tables:
 
 
 ## Technical Stack
-- **Database Engine**  MySQL 
+- **Database Engine**: MySQL 
 - **Scripting**: Advanced SQL (joins, aggregates, window functions, CTEs, subqueries)
 
 ---
